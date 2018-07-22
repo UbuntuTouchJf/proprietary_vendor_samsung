@@ -55,6 +55,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jf-common/proprietary/lib/libchromatix_imx074_preview.so:system/lib/libchromatix_imx074_preview.so \
     vendor/samsung/jf-common/proprietary/lib/libchromatix_imx074_video_hd.so:system/lib/libchromatix_imx074_video_hd.so \
     vendor/samsung/jf-common/proprietary/lib/libchromatix_imx074_zsl.so:system/lib/libchromatix_imx074_zsl.so \
+    vendor/samsung/jf-common/proprietary/lib/libTimeService.so:system/lib/libTimeService.so \
     vendor/samsung/jf-common/proprietary/lib/libchromatix_imx091_default_video.so:system/lib/libchromatix_imx091_default_video.so \
     vendor/samsung/jf-common/proprietary/lib/libchromatix_imx091_preview.so:system/lib/libchromatix_imx091_preview.so \
     vendor/samsung/jf-common/proprietary/lib/libchromatix_imx091_video_hd.so:system/lib/libchromatix_imx091_video_hd.so \
